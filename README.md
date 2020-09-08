@@ -6,8 +6,12 @@ Hi there, I'm Carl
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
-<!--
-**carlpadilla/carlpadilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+I am a Full Stack Developer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since highschool.
+My latest experience has been focused on building single-page applications with React.js and Node.js.
+
+
 
 ## 🔧 Technologies & Tools
 
@@ -56,7 +60,13 @@ Hi there, I'm Carl
 
 
 
+
+
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/carlpadilla/carlpadilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlpadilla&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</>
+<a href="https://github.com/crypt096/crypt096">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlpadilla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="CarlPadilla's GitHub Stats" />
+</a>
