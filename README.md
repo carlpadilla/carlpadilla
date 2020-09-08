@@ -65,10 +65,10 @@ My latest experience has been focused on building single-page applications with 
 
 ## &#x1f4c8; GitHub Stats
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=carlpadilla&hide=contribs,prs)
+
 <a href="https://github.com/carlpadilla/carlpadilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlpadilla&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</>a>
-<<a href="https://github.com/carlpadilla/carlpadilla">>
+</a>
+<a href="https://github.com/carlpadilla/carlpadilla">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=carlpadilla&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=1d1f21" alt="CarlPadilla's GitHub Stats" />
 </a>
