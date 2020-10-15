@@ -10,7 +10,7 @@ Hi there, I'm Carl
 
 I am a Full Stack Developer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since highschool.
 
-My latest experience has been focused on building single-page applications with React.js and Node.js.
+My latest experience has been focused on building single-page applications with React.js and Node.js, also learning some automation with Python.
 
 
 
