@@ -68,14 +68,14 @@ My latest experience has been focused on building single-page applications with 
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlpadilla&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlpadilla&theme=github_dark) 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[![Javier's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlpadilla)](https://github.com/carlpadilla/github-readme-stats)
+[![Carl's GitHub stats]![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlpadilla&theme=github_dark) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlpadilla)](https://github.com/carlpadilla/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=carlpadilla)](https://git.io/streak-stats)
+[![Top Langs]![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlpadilla&theme=github_dark) 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlpadilla&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
