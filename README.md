@@ -8,9 +8,9 @@ Hi there, I'm Carl
 
 
 
-I am a Full Stack Developer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since HighSchool.
+I am a software engineer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since HighSchool.
 
-Creative, detail-oriented, software engineer with a deep interest in automation. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+Creative, detail-oriented, with a deep interest in automation and learning. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
 
 
 
