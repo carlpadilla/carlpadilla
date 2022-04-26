@@ -1,16 +1,16 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 Hi there, I'm Carl
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<!-- <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> -->
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
 
 
 
-I am a Full Stack Developer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since highschool.
+I am a Full Stack Developer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since HighSchool.
 
-My latest experience has been focused on building single-page applications with React.js and Node.js, also learning automation with Python.
+Creative, detail-oriented, software engineer with a deep interest in automation. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
 
 
 
@@ -75,7 +75,7 @@ My latest experience has been focused on building single-page applications with 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=carlpadilla&theme=github_dark) 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=carlpadilla&theme=github_dark) 
-![](https://github-readme-streak-stats.herokuapp.com?user=carlpadilla&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com?user=carlpadilla&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
