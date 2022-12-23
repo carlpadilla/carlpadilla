@@ -8,9 +8,7 @@ Hi there, I'm Carl
 
 
 
-I am a software engineer from Philadelphia, PA. I've had a passion for coding, technologies and problem solving since HighSchool.
-
-Creative, detail-oriented, with a deep interest in automation and learning. Proven track record of creating and implementing successful front and back end web applications. Looking to bring my skills to a tech company with global reach.
+I am a highly motivated and detail-oriented professional, and I am always eager to learn and stay up-to-date with the latest technologies. I am confident in my ability to deliver exceptional technical support and contribute to the success of any organization.
 
 
 
